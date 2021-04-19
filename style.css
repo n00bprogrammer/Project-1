@@ -5,10 +5,10 @@
       color: white;
       background-color: #61b3e7;
     }
-    h1:hover {
-  color: #61b3e7;
-  background-color: #e6e8fa;
-}
+   h1.clicked{
+       color: navy;
+       background-color: light-gray;
+   }
     h2 {
       color: #FFB695;
   margin-left: 40px;
